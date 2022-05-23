@@ -1,2 +1,2 @@
 # WEKAAnalysis
-Poryecto de análisis de datos mediante el uso de WEKA
+Proyecto de análisis de datos mediante el uso de WEKA
